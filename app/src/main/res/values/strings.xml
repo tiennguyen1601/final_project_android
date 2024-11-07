@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SE171676_FinalProject</string>
+    <string name="back_button_description">Nút quay lại</string>
+    <string name="favorite_button_description">Nút yêu thích</string>
+    <string name="share_button_description">Nút chia sẻ</string>
+    <string name="image_slider_description">Trình chiếu hình ảnh sản phẩm</string>
+    <string name="rating_bar_description">Thang điểm đánh giá sản phẩm</string>
+    <string name="size_recycler_description">Danh sách kích thước sản phẩm</string>
+    <string name="tab_layout_description">Danh sách các tab thông tin sản phẩm</string>
+    <string name="add_to_cart_button_description">Thêm sản phẩm vào giỏ hàng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
